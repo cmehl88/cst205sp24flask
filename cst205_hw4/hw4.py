@@ -6,7 +6,7 @@ Homework #4
 Summary: Using Flask, When the website opens up the user is presented with 
 three randomly picks images from the list in image_info.py and then when
 an image is clicked its information is displayed.
-Github: 
+Github: https://github.com/cmehl88/cst205sp24flask/tree/main/cst205_hw4
 """
 
 from flask import Flask, render_template, url_for
